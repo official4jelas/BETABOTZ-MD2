@@ -6,7 +6,7 @@ global.numberowner = '6285766450735'
 global.mail = 'support@tioprm.eu.org' 
 global.gc = 'https://chat.whatsapp.com/CZ5FCfAXnqN3gvtnizRZg4'
 global.instagram = 'https://instagram.com'
-global.wm = '© Tio'
+global.wm = '© bottest'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
@@ -19,7 +19,7 @@ global.lann = 'oD4wgh58'
 //Daftar terlebih dahulu https://api.betabotz.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.btc = 'YOUR_APIKEY_HERE'
+global.btc = '4zoe6D2Z'
 //Daftar https://api.botcahx.eu.org 
 
 global.APIs = {   
@@ -27,8 +27,8 @@ global.APIs = {
   btc: 'https://api.botcahx.eu.org'
 }
 global.APIKeys = { 
-  'https://api.betabotz.eu.org': 'APIKEY', 
-  'https://api.botcahx.eu.org': 'APIKEY'
+  'https://api.betabotz.eu.org': 'oD4wgh58', 
+  'https://api.botcahx.eu.org': '4zoe6D2Z'
 }
 
 let fs = require('fs')
