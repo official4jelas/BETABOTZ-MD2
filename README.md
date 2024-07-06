@@ -7,6 +7,7 @@
 - Fitur 90% implementasi dari website api
 - Penambah output url expres.js agar bisa di jalankan di render dsb.
 - Informasi api [WhatsApp](https://whatsapp.com/channel/0029VaApYsQ5Ui2c2rKbpP0S)
+- Informasi Bot [Whatsapp](https://whatsapp.com/channel/0029VaiIG3UJpe8n3Y2MZ51z)
   ## Note!
   **Important :**
   
@@ -20,7 +21,7 @@
 
 | No | Plan/Role    | Limit          | Expired         | Harga |
 |----|--------------|----------------|-----------------|-------|
-| 1  | Free         | 100 Request/day| -               | Gratis|
+| 1  | Free         | 30 Request/day| -               | Gratis|
 | 2  | Cheap1       | 3000 Request   | 1 bulan         | 5000     |
 | 3  | Cheap2       | 4000 Request   | 1 bulan         | 6000     |
 | 4  | PREMIUM      | 5000 Request   | 1 bulan         | 7000     |
@@ -38,7 +39,7 @@
 
 ## Group Bot
 - Group Bot [`Join`](https://chat.whatsapp.com/G4f1fTpz9zL4EH3FyIcaPR)
-- Group Api [`Join`](https://chat.whatsapp.com/Lni6UJKG81WFQcNk1F7MOI)
+- Group Api [`Join`](https://chat.whatsapp.com/DJLpJEZ5QFO5nzAoGcJO71)
 ## Support
 
 <a href="https://api.betabotz.eu.org/donasi" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32px" alt="Sociabuzz"></a>
