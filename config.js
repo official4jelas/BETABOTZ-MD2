@@ -6,7 +6,7 @@ global.numberowner = '6285766450735'
 global.mail = 'support@tioprm.eu.org' 
 global.gc = 'https://chat.whatsapp.com/CZ5FCfAXnqN3gvtnizRZg4'
 global.instagram = 'https://instagram.com'
-global.wm = '© bottest'
+global.wm = '© botzz'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
@@ -27,7 +27,7 @@ global.APIs = {
   btc: 'https://api.botcahx.eu.org'
 }
 global.APIKeys = { 
-  'https://api.betabotz.eu.org': 'bottz', 
+  'https://api.betabotz.eu.org': 'bot', 
   'https://api.botcahx.eu.org': 'botzz'
 }
 
