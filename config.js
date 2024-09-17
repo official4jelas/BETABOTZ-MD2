@@ -15,7 +15,7 @@ global.author = 'Bot WhatsApp'
 global.maxwarn = '1' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
-global.lann = 'bottz' 
+global.lann = 'bot' 
 //Daftar terlebih dahulu https://api.betabotz.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
